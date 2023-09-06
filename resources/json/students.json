@@ -1,0 +1,38 @@
+[
+    {
+        "st_id":1,
+        "name":"amir",
+        "email":"amir@gmail.com",
+        "age":33,
+        "city":1
+    },
+    {
+        "st_id":2,
+        "name":"ikram",
+        "email":"ikram@gmail.com",
+        "age":32,
+        "city":2
+    },
+    {
+        "st_id":3,
+        "name":"hassan",
+        "email":"hassan@gmail.com",
+        "age":30,
+        "city":2
+    },   
+    {
+        "st_id":4,
+        "name":"kamal",
+        "email":"kamal@gmail.com",
+        "age":33,
+        "city":2
+    },
+    {
+        "st_id":5,
+        "name":"naseem",
+        "email":"naseem@gmail.com",
+        "age":33,
+        "city":1
+    }
+
+]
